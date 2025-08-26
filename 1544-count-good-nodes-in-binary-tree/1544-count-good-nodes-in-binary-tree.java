@@ -21,7 +21,6 @@ class Solution {
             maxValue=node.val;
             goodNodes++;
         }
-        System.out.println("Node value:" + node.val + " , maxValue = " + maxValue + " ,good Nodes = " + goodNodes);
         if (node.left!=null) recursiveCheck(node.left, maxValue);
         if (node.right!=null) recursiveCheck(node.right, maxValue);
         return;
