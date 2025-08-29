@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HomieTomie/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/HomieTomie/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 <!---LeetCode Topics End-->
