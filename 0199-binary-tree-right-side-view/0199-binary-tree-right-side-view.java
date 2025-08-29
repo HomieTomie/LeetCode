@@ -45,10 +45,10 @@ class Solution {
     List<Integer> helperFunction(TreeNode root, List<Integer> list, int level){
         if(root==null) return list;
 
-        if(level == list.size()) list.add(root.val); level++;
+        if(level == list.size()) list.add(root.val);
 
-        if(root.right!=null) helperFunction(root.right, list, level);
-        if(root.left!=null) helperFunction(root.left, list, level);
+        if(root.right!=null) helperFunction(root.right, list, level+1);
+        if(root.left!=null) helperFunction(root.left, list, level+1);
         return list;
     }
 }
