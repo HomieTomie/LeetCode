@@ -86,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/HomieTomie/LeetCode/tree/master/0871-keys-and-rooms) |
+## Array
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
