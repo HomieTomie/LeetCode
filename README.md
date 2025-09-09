@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/HomieTomie/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/HomieTomie/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Math
 |  |
 | ------- |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/HomieTomie/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/HomieTomie/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/HomieTomie/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
