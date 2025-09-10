@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HomieTomie/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HomieTomie/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HomieTomie/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/HomieTomie/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Hash Table
+|  |
+| ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 <!---LeetCode Topics End-->
