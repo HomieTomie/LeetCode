@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HomieTomie/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HomieTomie/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/HomieTomie/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/HomieTomie/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HomieTomie/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/HomieTomie/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/HomieTomie/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HomieTomie/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/HomieTomie/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/HomieTomie/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/HomieTomie/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/HomieTomie/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HomieTomie/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -172,8 +175,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/HomieTomie/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/HomieTomie/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/HomieTomie/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/HomieTomie/LeetCode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
