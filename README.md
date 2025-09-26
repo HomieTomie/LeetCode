@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HomieTomie/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HomieTomie/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HomieTomie/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/HomieTomie/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0611-valid-triangle-number](https://github.com/HomieTomie/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HomieTomie/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0120-triangle](https://github.com/HomieTomie/LeetCode/tree/master/0120-triangle) |
+| [0611-valid-triangle-number](https://github.com/HomieTomie/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1006-vowel-spellchecker](https://github.com/HomieTomie/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HomieTomie/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HomieTomie/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/HomieTomie/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/HomieTomie/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/HomieTomie/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/HomieTomie/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/HomieTomie/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/HomieTomie/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
